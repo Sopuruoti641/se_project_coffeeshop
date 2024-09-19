@@ -39,7 +39,7 @@
 .header__span-accent {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
@@ -60,7 +60,7 @@
   justify-content: space-between;
   align-items: end;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
+  font-style: 400;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -107,7 +107,7 @@
 
 .recipes__title {
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
+  font-style: 400;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -134,7 +134,7 @@
 .recipes__video-caption {
   margin: 24px 0 0;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
+  font-style: 400;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
