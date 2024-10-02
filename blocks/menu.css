@@ -5,6 +5,7 @@
   align-items: center;
   background-image: url(../images/background_menu.svg);
   background-position: center;
+  background-size: cover;
 }
 
 .menu__title {
@@ -26,6 +27,8 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 780px;
+  display: flex;
+  align-content: center;
 }
 
 .menu__cards {

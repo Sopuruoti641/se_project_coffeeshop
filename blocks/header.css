@@ -6,6 +6,7 @@
   background-image: url(../images/background_header.svg);
   position: relative;
   background-size: cover;
+  background-position: center;
 }
 
 .header__image {
@@ -34,6 +35,7 @@
   font-size: 60px;
   line-height: 72px;
   color: #2f80ed;
+  display: block;
 }
 
 .header__description {
@@ -54,11 +56,6 @@
   line-height: 20px;
   color: #838383;
   margin-top: auto;
-  display: flex;
-  justify-content: space-between;
-}
-
-.header__description {
   display: flex;
   justify-content: space-between;
 }
