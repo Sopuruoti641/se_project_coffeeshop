@@ -11,22 +11,27 @@
   margin-right: 30px;
 }
 
-.nav__link {
+.nav__links {
   display: flex;
   list-style-type: none;
   gap: 20px;
   padding: 0;
   margin: 0;
+}
+
+.nav__item {
   font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+}
+
+.nav__link {
   color: black;
   text-decoration: none;
   transition: color 0.3s ease;
 }
-
 .nav__link:hover {
   color: #2f80ed;
 }
