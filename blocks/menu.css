@@ -28,7 +28,7 @@
   line-height: 30px;
   max-width: 780px;
   display: flex;
-  align-content: center;
+  text-align: center;
 }
 
 .menu__cards {
